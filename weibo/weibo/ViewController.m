@@ -19,7 +19,7 @@
     
     NSLog(@"你个菜B");
     
-    NSLog(@"我瞅你咋的");
+    NSLog(@"妈的,领导了不起呀,该我代码");
     // Do any additional setup after loading the view, typically from a nib.
 }
 
