@@ -19,7 +19,7 @@
     
     NSLog(@"你个菜B");
     
-    NSLog(@"你瞅啥");
+    NSLog(@"我瞅你咋的");
     // Do any additional setup after loading the view, typically from a nib.
 }
 
